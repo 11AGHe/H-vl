@@ -1,0 +1,16 @@
+{
+  "name": "Vless",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "92999813-2f97-421a-ba26-7f1cd5d07f70"
+    }
+  },
+  "website": "https://github.com/11AGHe/",
+  "repository": "https://github.com/11AGHe/H-vl",
+  "stack": "container"
+}
